@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [iOSProgramming_BasicSwift](https://github.com/c4arl0s/iOSProgramming_BasicSwift#go-back-to-overview)
 
 iOS Programming Basic Swift
